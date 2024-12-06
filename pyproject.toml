@@ -2,9 +2,9 @@
 requires = [
     "setuptools",
     "wheel",
-    "cython~=0.29.30",
-    "numpy>=1.22.0",
-    "packaging",
+    "cython==3.0.11",
+    "numpy==1.26.0",
+    "packaging==24.2",
 ]
 
 [flake8]

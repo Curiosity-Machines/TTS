@@ -196,7 +196,6 @@ pyparsing==2.4.7
 pypinyin==0.53.0
 pysbd==0.3.4
 pytest==8.3.4
-python-apt==2.4.0+ubuntu3
 python-crfsuite==0.9.11
 python-dateutil==2.9.0.post0
 python-json-logger==2.0.7
